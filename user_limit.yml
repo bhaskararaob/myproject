@@ -1,0 +1,21 @@
+user:
+  - name: bhaskara
+    first:  bhaskara
+    middle: rao
+    last: bongu
+    uid:  2000
+  - name: sulochana
+    first:  sulochana
+    middle: rao
+    last: bongu
+    uid:  2001
+  - name: aaradhya
+    first:  aaradhya
+    middle: sai
+    last: bongu
+    uid:  2002
+  - name: aadhvik
+    first:  aadhvik
+    middle: sai varma
+    last: bongu
+    uid:  2003
